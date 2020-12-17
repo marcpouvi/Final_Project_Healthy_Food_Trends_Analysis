@@ -45,6 +45,10 @@ Visual and numerical analysis have been done during the project. The first analy
 * Future steps: With further investigation on the other keywords, we would observe that words like kale are becoming more popular on our ingredients. With more time, determinign which keywords would be really representative to a healthy life-style, could help us to have a deep knowledge over this new market and a good start to implement a business plan (Heura Foods: Plant-based startup from Barcelona founded in April 2017. Heura was born to bring a solution that will leave the current food system obsolete and accelerate the shift to a world where the animals are out of the meat production equation). Also, a healthy food recommender could be a great next step.
  
 ## Organization
-The repository is organised into 4 different files. One with the files used to gather the data, for each data source I used a different file. Another file to saving the csv files, also divided per category and one extra file for the definitive data used for analysing and training the algorithm. There is also a file for the data analysis where you will find the jupyter notebooks for the two analyses.
-All the tasks can be found on the trello I used to organise this project.
+The repository is organised into 4 different files. The first, a file with all the Jupyter Notebooks with the code used. The second one, contains Tableau document visualization and the raw csv files visualized. The third, the data gathered used for the analysis, it is missing the original from Kaggle as it was too heavy. For solving this, the link to the Kaggle dataset is provided in links section. And last, the presentation stored in pdf and the photos used. 
 
+## Links
+[Repository](https://github.com/marcpouvi/Final_Project_Healthy_Food_Trends_Analysis)  
+[Slides](https://docs.google.com/presentation/d/1OhBPcAHE_zIYupvJu3mVbtKwwspr_L0f4JBpOWv2bW0/edit#slide=id.gb1a88ca24d_0_174)  
+[Trello](https://trello.com/b/7WeMhwv1/final-project-analysis-healthy-food-trend)
+[Kaggle with original dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions)
