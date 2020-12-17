@@ -50,5 +50,5 @@ The repository is organised into 4 different files. The first, a file with all t
 ## Links
 [Repository](https://github.com/marcpouvi/Final_Project_Healthy_Food_Trends_Analysis)  
 [Slides](https://docs.google.com/presentation/d/1OhBPcAHE_zIYupvJu3mVbtKwwspr_L0f4JBpOWv2bW0/edit#slide=id.gb1a88ca24d_0_174)  
-[Trello](https://trello.com/b/7WeMhwv1/final-project-analysis-healthy-food-trend) 
+[Trello](https://trello.com/b/7WeMhwv1/final-project-analysis-healthy-food-trend)  
 [Kaggle with original dataset](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions)
