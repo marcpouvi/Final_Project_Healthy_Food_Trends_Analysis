@@ -30,8 +30,11 @@ Being aware of all this, it is normal to think that there is a clear positive tr
 ## Dataset
 I used two different data sources:
 * To gather the data related to recipes, I used a kaggle dataset from the web Food.com, one of the largest cooking recipe websites (See link in links section)
-* The data related to Google trends, was obtained through pytrends, an unnofficial API for Google Trends. Allows simple interface for automating downloading of reports from Google Trends. 
+* The data related to Google trends, was obtained through pytrends, an unnofficial API for Google Trends. Allows simple interface for automating downloading of reports from Google Trends. For the first attempt, the aim was to work with recipes containing tofu as ingredient, but google trends did not return any information, so keywords such as Tofu or Kale were selected to anlyize its trends.
 
 ## Cleaning
-Regarding the cleaning of the data, the stock data was already cleaned and ready to be used.
+Regarding the cleaning of the data, the recipes data contained over 180K recipes over the 2000 to 2018. The intention was analyzing the last decade and the type of recipes were not also what we were looking for. Outliers were removed, nutritional values were added in order to understand better the data set, and it was adapted for the purpose of the analysis. 
+For Google trends, there was no need of cleaning
 
+## Analysis
+Visual and numerical analysis have been done during the project. The first analysis was done with the recipes data set, once the data was cleaned and ready to work with, we plot it and the graphs indicated that there has been a drop in healthy recipe posts during the recent years, this is the reason why Google trends played a main role for continuing with the analysis. Once, we obtained the data for what was consider keywords representing healthy food, we used Tableau for visualizing the tendencies. But I wanted to get further, and for the Tofu keyword, we applied inferential statistics that drove me to the final conclusions. 
