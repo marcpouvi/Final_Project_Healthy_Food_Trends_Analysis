@@ -14,7 +14,6 @@
 - [Analysis](#analysis)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
@@ -38,3 +37,14 @@ For Google trends, there was no need of cleaning
 
 ## Analysis
 Visual and numerical analysis have been done during the project. The first analysis was done with the recipes data set, once the data was cleaned and ready to work with, we plot it and the graphs indicated that there has been a drop in healthy recipe posts during the recent years, this is the reason why Google trends played a main role for continuing with the analysis. Once, we obtained the data for what was consider keywords representing healthy food, we used Tableau for visualizing the tendencies. But I wanted to get further, and for the Tofu keyword, we applied inferential statistics that drove me to the final conclusions. 
+
+## Conclusion
+* Analytical Conclusions: Surprisingly, in general terms the positive trends of tofu has not been significant compared over the last decade, although it was for 2017 and 2018 
+* Project Management: Learn about all the process and its different steps. Research the code, ask for help, work under pressure
+* Improvise, Adapt and Overcome: During this project many blockers and problems have been faced, and the way to overcome them is to adapt to the situation and improvise when needed 
+* Future steps: With further investigation on the other keywords, we would observe that words like kale are becoming more popular on our ingredients. With more time, determinign which keywords would be really representative to a healthy life-style, could help us to have a deep knowledge over this new market and a good start to implement a business plan (Heura Foods: Plant-based startup from Barcelona founded in April 2017. Heura was born to bring a solution that will leave the current food system obsolete and accelerate the shift to a world where the animals are out of the meat production equation). Also, a healthy food recommender could be a great next step.
+ 
+## Organization
+The repository is organised into 4 different files. One with the files used to gather the data, for each data source I used a different file. Another file to saving the csv files, also divided per category and one extra file for the definitive data used for analysing and training the algorithm. There is also a file for the data analysis where you will find the jupyter notebooks for the two analyses.
+All the tasks can be found on the trello I used to organise this project.
+
